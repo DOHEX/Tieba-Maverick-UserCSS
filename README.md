@@ -11,7 +11,7 @@
 
 ## 使用方法
 1. 安装 **Stylus 扩展**：[Chrome](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne), [Firefox](https://addons.mozilla.org/cn/firefox/addon/styl-us/)
-2. [安装样式](https://raw.githubusercontent.com/imaverickk/Tieba-Maverick-UserCSS/master/tieba-maverick.user.css)
+2. [安装样式](https://raw.githubusercontent.com/DWKaM/Tieba-Maverick-UserCSS/master/tieba-maverick.user.css)
 
 ## 更多风格
 >（需先安装主样式）
