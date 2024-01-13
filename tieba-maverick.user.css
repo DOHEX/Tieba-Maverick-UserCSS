@@ -1,6 +1,6 @@
 /* ==UserStyle==
 @name           Tieba-Maverick [百度贴吧]
-@version        20221209.0
+@version        20240101.0
 @description    百度贴吧现代化风格样式
 @namespace      https://github.com/DWKaM
 @author         Maverick
@@ -980,6 +980,8 @@
 	.tbui_fbar_square,
 	
 	/*广告和无用功能*/
+	.threadlist_bright>div.thread_item_box,
+	.plat_recom_carousel .ad_logo,
 	#branding_ads,
 	.thread_item_box[add-shield-track="1"],
 	.l_post_bright[add-shield-track="1"],
@@ -2210,6 +2212,10 @@
 	.userinfo_sex.userinfo_sex_female:before{
 		content: "\e590";
 		color: #ff7f7f;
+	}
+
+	.search_dialog_bright .j_form{
+		display: flex;
 	}
 
 }
