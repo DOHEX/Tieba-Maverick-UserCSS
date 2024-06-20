@@ -3007,7 +3007,7 @@
 		top: 0;
 		width: calc(var(--m-mainwidth) + 40px) !important;
 		transform: translateX(-50%);
-		border-radius: 0 0 10px 10px;
+		border-radius: 6 6 10px 10px;
 		background: var(--m-ecolor) !important;
 		border: none !important;
 		box-shadow: 0 1px 4px rgba(0,0,0,.3) !important;
