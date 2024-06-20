@@ -3007,7 +3007,7 @@
 		top: 0;
 		width: calc(var(--m-mainwidth) + 40px) !important;
 		transform: translateX(-50%);
-		border-radius: 6 6 10px 10px;
+		border-radius: 0 0 10px 10px;
 		background: var(--m-ecolor) !important;
 		border: none !important;
 		box-shadow: 0 1px 4px rgba(0,0,0,.3) !important;
@@ -5386,6 +5386,7 @@
 		background: var(--m-block-d008) !important;
 		box-sizing: border-box;
 		border-bottom: 4px solid hsla(0,0%,var(--m-block-darken-lightness),0.1);
+		border-radius: 6px 6px 0 0
 		height: 40px !important;
 		margin: 0 !important;
 		padding: 0 !important;
